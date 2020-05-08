@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "playername": "Player1",
+      "contact": ""
+    },
+    {
+      "playername": "Player2",
+      "contact": ""
+    },
+    {
+      "playername": "Player3",
+      "contact": ""
+    },
+    {
+      "playername": "Player4",
+      "contact": ""
+    },
+    {
+      "playername": "Player5",
+      "contact": ""
+    },
+    {
+      "playername": "Player6",
+      "contact": ""
+    },
+    {
+      "playername": "Player7",
+      "contact": ""
+    }
+  ]
+}
